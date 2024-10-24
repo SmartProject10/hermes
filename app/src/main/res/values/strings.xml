@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hermes</string>
+    
+    <!--   Login   -->
+    <string name="slogan">Rápido, eficiente y productivo</string>
+    <string name="subtitle_login">Iniciar sesión</string>
+    <string name="second_slogan">¡Simplifica, optimiza, creece!</string>
+    <string name="subtitle_email">Correo</string>
+    <string name="str_email">Email</string>
+    <string name="subtitle_password">Contraseña</string>
+    <string name="link_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="btn_login">Entrar</string>
+    <string name="str_not_member">¿Aún no eres miembro?</string>
+    <string name="link_register">Regístrate</string>
+    <string name="link_terms">Términos</string>
+    <string name="link_plans">Planes</string>
+    <string name="link_contact_us">Contáctanos</string>
+</resources>
